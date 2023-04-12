@@ -1,4 +1,4 @@
-# Hey! I'm @mr_flolo / Noah
+# Hey! I'm @mrflolo / Noah
 
 - _hobby coder_ 
 - _currently working towards finishing High-School_
