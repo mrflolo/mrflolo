@@ -4,7 +4,7 @@
 - _currently working towards finishing High-School_
 - _planning on studying comp. science_
 
-![Windows](https://img.shields.io/badge/OS-Win11-blue?style=flat&logo=windows) ![Linux](https://img.shields.io/badge/OS-Linux-blue?style=flat&logo=linux) ![VSCode](https://img.shields.io/badge/Editor-VSCode-blue?style=flat&logo=visualstudiocode) ![NextJS](https://img.shields.io/badge/Javascript%20Framework-next.js-blue?style=flat&logo=nextdotjs)
+![Windows](https://img.shields.io/badge/OS-Win11-blue?style=flat&logo=windows) ![Linux](https://img.shields.io/badge/OS-Linux-blue?style=flat&logo=linux) ![JetBrains](https://img.shields.io/badge/Editor-JetBrains-blue?style=flat&logo=visualstudiocode) ![NextJS](https://img.shields.io/badge/Javascript%20Framework-next.js-blue?style=flat&logo=nextdotjs)
 
 # What I use
 
